@@ -51,3 +51,10 @@ Vaqti ke be maks iau hamze niauz ductid az harf’ Y estefaude konid.
 - Boyd = بُعد
 - Camy = شمع
 - Nahiy = نهی != Nahi
+
+## I
+Harf' I ham sedaudaur ast, ham bisedau.
+- `Bisedau + I` => I sedaudaur ast
+- `Bisedau + IY` => I bisedau ast
+- `Sedaudaur + I` => I bisedau ast
+- `Sedaudaur + YI` => I sedaudaur ast
