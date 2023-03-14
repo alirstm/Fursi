@@ -1,51 +1,51 @@
-# Faursi
+# Fursi
 
-## Alefbau
+## Alefbu
 
-### Horuf' Sedaudaur
+### Horuf' Sedudur
 
 | Harf | Kalame   | کلمه   |
 |:---- |:-------- | ------:|
 | A    | Akbar    | اکبر   |
-| E    | Ehteraum | احترام |
+| E    | Ehterum  | احترام |
 | O    | Xorcid   | خورشید |
-| AU   | Ausmaun  | آسمان  |
-| U    | Rustau   | روستا  |
-| I    | Iraun    | ایران  |
+| U    | Usemun   | آسمان  |
+| I    | Irun     | ایران  |
+| OO   | Roostu   | روستا  |
 
-### Horuf' Bisedau
+### Horuf' Bisedu
 
 | Harf | Kalame    | کلمه   |
 |:---- |:--------- | ------:|
-| B    | Baraun    | باران  |
+| B    | Barun     | باران  |
 | C    | Cab       | شب     |
-| D    | Darbaur   | دربار  |
+| D    | Darbur    | دربار  |
 | F    | Fekr      | فکر    |
-| G    | Godaul    | گودال  |
+| G    | Godul     | گودال  |
 | H    | Hadis     | حدیث   |
-| I    | Xiaur     | خیار   |
-| J    | Jauhel    | جاهل   |
-| K    | Ketaub    | کتاب   |
-| L    | Laule     | لاله   |
-| M    | Maudar    | مادر   |
-| N    | Naun      | نان    |
+| I    | Xiur      | خیار   |
+| J    | Juhel     | جاهل   |
+| K    | Ketub     | کتاب   |
+| L    | Lule      | لاله   |
+| M    | Mudar     | مادر   |
+| N    | Nun       | نان    |
 | P    | Pedar     | پدر    |
-| Q    | Qauzi     | قاضی   |
-| R    | Rauzi     | راضی   |
+| Q    | Quzi      | قاضی   |
+| R    | Ruzi      | راضی   |
 | S    | Sabad     | سبد    |
-| T    | Taraune   | ترانه  |
-| V    | Vauredaut | واردات |
-| W    | Wub       | چوب    |
-| X    | Xaub      | خواب   |
-| Y    | Qoryaun   | قرآن   |
-| Z    | Zanbur    | زنبور  |
-| CW   | Cwaule    | ژاله   |
+| T    | Tarune    | ترانه  |
+| V    | Vuredut   | واردات |
+| W    | Woob      | چوب    |
+| X    | Xub       | خواب   |
+| Y    | Qoryun    | قرآن   |
+| Z    | Zanboor   | زنبور  |
+| CW   | Cwule     | ژاله   |
 
 ## Yy
-Vaqti ke be maks iau hamze niauz dauctid az harf’ Y estefaude konid.
+Vaqti ke be maks iu hamze niuz ductid az harf’ Y estefude konid.
 - Masyale = Mas-ale != Masale
-- Qoryaun = Qor-aun != Qoraun
-- Defauy = دفاع
+- Qoryun = Qor-un != Qorun
+- Defuy = دفاع
 - Mayni = معنی
 - Bayd = بَعد
 - Boyd = بُعد
@@ -53,33 +53,33 @@ Vaqti ke be maks iau hamze niauz dauctid az harf’ Y estefaude konid.
 - Nahiy = نهی != Nahi
 
 ## Ii
-Harf' I ham sedaudaur ast, ham bisedau.
-- `Bisedau + I` => Nauhi = ناهی (I sedaudaur ast)
-- `Bisedau + IY` => Nahiy = نهی (I bisedau ast)
-- `Sedaudaur + I` => Nei = نی (I bisedau ast)
-- `Sedaudaur + YI` => Neyi = نئی (I sedaudaur ast)
+Harf' I ham sedudur ast, ham bisedu.
+- `Bisedu + I` => Nuhi = ناهی (I sedudur ast)
+- `Bisedu + IY` => Nahiy = نهی (I bisedu ast)
+- `Sedudur + I` => Nei = نی (I bisedu ast)
+- `Sedudur + YI` => Neyi = نئی (I sedudur ast)
 
-## Tekrauri
-Agar harfi do baur poctesarham tekraur cavad, mitavaun ba etemaud be xaunande, tekraur rau hazf kard. Albate emlau' kaumel va sahih hamcenaun do harfi ast.
-Caumpiiuter ~= Caumpiuter
+## Tekruri
+Agar harfi do bur poctesarham tekrur cavad, mitavun ba etemud be xunande, tekrur ru hazf kard. Albate emlu' kumel va sahih hamcenun do harfi ast.
+Cumpiioter ~= Cumpioter
 Tahiie ~= Tahie
-Taiiaure ~= Taiaure
-fann' baiaun ~= fan' baiaun
-fan' divauri
+Taiiure ~= Taiure
+fann' baiun ~= fan' baiun
+fan' divuri
 
 ## CW
-Agar xaustid CW jodau talafuz cavad, az y ia - estefaude konid
-- Pucwi = پوژی
-- Pucywi  = Puc-wi = پوش‌چی
+Agar xustid CW jodu talafoz cavad, az y ia - estefude konid
+- Poocwi = پوژی
+- Poocywi  = Puc-wi = پوش‌چی
 
 ## Upusterof
-Mitavaun az aupausterof barau’ saude nevisi estefaude kard.
-- Zibau ast = Zibau'st
-- Maucin at = Maucin't
+Mitavun az upusterof baru’ sude nevisi estefude kard.
+- Zibu ast = Zibu'st
+- Mucin at = Mucin't
 - Hovie at = Hovie't
 - Hoviat at = Hoviat't
 - Camy-e qermez = Camy' qermez
-- Jomye hau taytil hastim = Jomye'u taytil hastim
-- Sedau hau ie saude = Sedau’ai saude
-- Canbe hau rau madrese miravim = Canbe'ar madrese miravim
-- Baunk-e Auiande-ie Iraun = Baunk' Auiande' Iraun
+- Jomye hu taytil hastim = Jomye'u taytil hastim
+- Sedu hu ie sude = Sedu’ui sude
+- Canbe hu ru madrese miravim = Canbe'ur madrese miravim
+- Bunk-e Uiande-ie Irun = Bunk' Uiande' Irun
