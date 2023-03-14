@@ -42,7 +42,7 @@
 | CW   | Cwaule    | ژاله   |
 
 ## Yy
-Vaqti ke be maks iau hamze niauz ductid az harf’ Y estefaude konid.
+Vaqti ke be maks iau hamze niauz dauctid az harf’ Y estefaude konid.
 - Masyale = Mas-ale != Masale
 - Qoryaun = Qor-aun != Qoraun
 - Defauy = دفاع
