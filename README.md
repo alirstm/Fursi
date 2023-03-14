@@ -1,5 +1,7 @@
 # Fursi
 
+Nevectur' zabun' Fursi bu estefude az horoof' [ASCII](https://en.wikipedia.org/wiki/ASCII).
+
 ## Alefbu
 
 ### Horoof' Sedudur
