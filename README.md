@@ -61,11 +61,10 @@ Harf' I ham sedudur ast, ham bisedu.
 
 ## Tekruri
 Agar harfi do bur poctesarham tekrur cavad, mitavun ba etemud be xunande, tekrur ru hazf kard. Albate emlu' kumel va sahih hamcenun do harfi ast.
-Cumpiioter ~= Cumpioter
-Tahiie ~= Tahie
-Taiiure ~= Taiure
-fann' baiun ~= fan' baiun
-fan' divuri
+- Cumpiioter ~= Cumpioter
+- Tahiie ~= Tahie
+- Taiiure ~= Taiure
+- Fann' baiun ~= Fan' baiun (Fan' divuri)
 
 ## CW
 Agar xustid CW jodu talafoz cavad, az y ia - estefude konid
