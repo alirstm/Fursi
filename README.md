@@ -43,11 +43,11 @@
 
 ## Y
 Vaqti ke be maks iau hamze niauz ductid az harf’ Y estefaude konid.
-Masyale = Mas-ale != Masale
-Qoryaun = Qor-aun != Qoraun
-Defauy = دفاع
-Mayni = معنی
-Bayd = بَعد
-Boyd = بُعد
-Camy = شمع
-Nahiy = نهی != Nahi
+- Masyale = Mas-ale != Masale
+- Qoryaun = Qor-aun != Qoraun
+- Defauy = دفاع
+- Mayni = معنی
+- Bayd = بَعد
+- Boyd = بُعد
+- Camy = شمع
+- Nahiy = نهی != Nahi
