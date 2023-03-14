@@ -74,12 +74,12 @@ Agar xaustid CW jodau talafuz cavad, az y ia - estefaude konid
 
 ## Upusterof
 Mitavaun az aupausterof barau’ saude nevisi estefaude kard.
-Zibu ast = Zibu'st
-Mucin at = Mucin't
-Hovie at = Hovie't
-Hoviat at = Hoviat't
-Camy-e qermez = Camy' qermez
-Jomye hu taytil hastim = Jomye'u taytil hastim
-Sedu hu ie sude = Sedu’ui sude
-Canbe hu ru madrese miravim = Canbe'ur madrese miravim
-Bunk-e Uiande-ie Irun = Bunk' Uiande' Irun
+- Zibau ast = Zibau'st
+- Maucin at = Maucin't
+- Hovie at = Hovie't
+- Hoviat at = Hoviat't
+- Camy-e qermez = Camy' qermez
+- Jomye hau taytil hastim = Jomye'u taytil hastim
+- Sedau hau ie saude = Sedau’ai saude
+- Canbe hau rau madrese miravim = Canbe'ar madrese miravim
+- Baunk-e Auiande-ie Iraun = Baunk' Auiande' Iraun
