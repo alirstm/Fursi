@@ -53,7 +53,7 @@ Vaqti ke be maks iu hamze niuz ductid az harf’ Y estefude konid.
 - Boyd = بُعد
 - Camy = شمع
 
-## Ii
+## I/IY/YI
 Harf' I ham sedudur ast, ham bisedu.
 - `Bisedu + I` => Nuhi = ناهی (I sedudur ast)
 - `Bisedu + IY` => Nahiy = نهی (I bisedu ast)
