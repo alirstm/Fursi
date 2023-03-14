@@ -66,6 +66,7 @@ Agar harfi dobur poctesarham tekrur cavad, mitavun ba etemud be xunande, tekrur 
 - Tahiie ~= Tahie
 - Taiiure ~= Taiure
 - Fann' baiun ~= Fan' baiun (Fan' divuri)
+- Bannu ~= Banu
 
 ## CW
 Agar xustid CW jodu talafoz cavad, az y ia - estefude konid
