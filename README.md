@@ -50,7 +50,6 @@ Vaqti ke be maks iu hamze niuz ductid az harf’ Y estefude konid.
 - Bayd = بَعد
 - Boyd = بُعد
 - Camy = شمع
-- Nahiy = نهی != Nahi
 
 ## Ii
 Harf' I ham sedudur ast, ham bisedu.
