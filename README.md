@@ -2,7 +2,7 @@
 
 ## Alefbu
 
-### Horuf' Sedudur
+### Horoof' Sedudur
 
 | Harf | Kalame   | کلمه   |
 |:---- |:-------- | ------:|
@@ -13,7 +13,7 @@
 | I    | Irun     | ایران  |
 | OO   | Roostu   | روستا  |
 
-### Horuf' Bisedu
+### Horoof' Bisedu
 
 | Harf | Kalame    | کلمه   |
 |:---- |:--------- | ------:|
