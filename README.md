@@ -60,7 +60,7 @@ Harf' I ham sedudur ast, ham bisedu.
 - `Sedudur + I` => Nei = نی (I bisedu ast)
 - `Sedudur + YI` => Neyi = نئی (I sedudur ast)
 
-## Tacdid ia Horoof' Tekruri
+## Tacdid va Horoof' Tekruri
 Agar harfi dobur poctesarham tekrur cavad, mitavun ba etemud be xunande tekrur ru hazf kard. Albate emlu' kumel va sahih hamwenun doharfi ast.
 - Cumpiioter ~= Cumpioter
 - Tahiie ~= Tahie
