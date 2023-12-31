@@ -1,6 +1,6 @@
 # Fursi
 
-Nevectur' zabun' Fursi bu estefude az horoof' [ASCII](https://en.wikipedia.org/wiki/ASCII).
+Nevectur' zabun' Fursi bu estefude az horoof' [ASCII](https://en.wikipedia.org/wiki/ASCII) (work in progress).
 
 ## Alefbu
 
