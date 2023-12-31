@@ -56,7 +56,7 @@ Vaqti ke be maks iu hamze niuz ductid az harf’ Y estefude konid.
 ## I, IY, va YI
 Harf' I ham sedudur ast, ham bisedu.
 - `Bisedu + I` => Nuhi = ناهی (I sedudur ast)
-- `Bisedu + IY` => Nahiy = نهی (I bisedu ast)
+- `Bisedu + IY` => Nahiy = نهی (I bisedu ast) (maybe this can be simplified to just Nahy?)
 - `Sedudur + I` => Nei = نی (I bisedu ast)
 - `Sedudur + YI` => Neyi = نئی (I sedudur ast)
 
