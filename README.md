@@ -84,3 +84,14 @@ Mitavun az upusterof baru’ sude nevisi estefude kard.
 - Sedu hu ie sude = Sedu’ui sude
 - Canbe hu ru madrese miravim = Canbe'ur madrese miravim
 - Bunk-e Uiande-ie Irun = Bunk' Uiande' Irun
+
+## Ide (??)
+
+- U (آ) -> A
+- A (اَ) -> -
+- Y -> maks
+
+Usemun -> Aseman
+Sabad -> Sbd
+Parwam -> Prywm
+
