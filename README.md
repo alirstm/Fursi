@@ -87,11 +87,7 @@ Mitavun az upusterof baru’ sude nevisi estefude kard.
 
 ## Ide (??)
 
-- U (آ) -> A
-- A (اَ) -> -
-- Y -> maks
-
-Usemun -> Aseman
-Sabad -> Sbd
-Parwam -> Prywm
+- U (آ) -> A      Usemun -> Aseman
+- A (اَ) -> -      Sabad -> Sbd
+- Y -> maks      Parwam -> Prywm
 
