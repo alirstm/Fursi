@@ -1,6 +1,6 @@
 # Fursi
 
-Nevectur' zabun' Fursi bu estefude az horoof' [ASCII](https://en.wikipedia.org/wiki/ASCII) (work in progress).
+Nevectur' zabun' Fursi bu estefude az horoof' [ASCII](https://en.wikipedia.org/wiki/ASCII).
 
 ## Alefbu
 
@@ -54,7 +54,22 @@ Vaqti ke be maks iu hamze niuz ductid az harf’ Y estefude konid.
 - Camy = شمع
 
 ## I, IY, va YI
-Harf' I ham sedudur ast, ham bisedu.
+Harf' I ham sedudur ast, ham bisedu. Nokte dar inju'st ke do harf' sedudur nemitavunand kenur' ham bucand.
+- Vasat
+  - `sedudur + I + sedudur => I bisedu`
+  - `bisedu + I + sedudur => I bisedu`
+  - `sedudur + I + bisedu => I bisedu`
+  - `bisedu + I + bisedu => I sedudur`
+- Uxar
+  - `sedudur + I => I bisedu`
+  - `bisedu + I => I sedudur`
+  - `bisedu + II => II bisedu` **
+- Aval
+  - `I + sedudur => I bisedu`
+  - `I + bisedu => I sedudur`
+- Tanhu
+  - `I => I sedudur`
+
 - `Bisedu + I` => Nuhi = ناهی (I sedudur ast)
 - `Bisedu + IY` => Nahiy = نهی (I bisedu ast) (maybe this can be simplified to just Nahy?)
 - `Sedudur + I` => Nei = نی (I bisedu ast)
@@ -84,10 +99,4 @@ Mitavun az upusterof baru’ sude nevisi estefude kard.
 - Sedu hu ie sude = Sedu’ui sude
 - Canbe hu ru madrese miravim = Canbe'ur madrese miravim
 - Bunk-e Uiande-ie Irun = Bunk' Uiande' Irun
-
-## Ide (??)
-
-- U (آ) -> A (Usemun -> Aseman)
-- A (اَ) -> picfarz (Sabad -> Sbd)
-- Y -> maks (Parwam -> Prywm)
 
