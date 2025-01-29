@@ -53,7 +53,7 @@ Vaqti ke be maks iu hamze niuz ductid az harf’ Y estefude konid.
 - Boyd = بُعد
 - Camy = شمع
 
-## I, IY, va YI
+## I Bisedu va Busedu
 Harf' I ham sedudur ast, ham bisedu. Nokte dar inju'st ke do harf' sedudur nemitavunand kenur' ham bucand.
 - Vasat
   - `sedudur + I + sedudur => I bisedu`
@@ -69,11 +69,6 @@ Harf' I ham sedudur ast, ham bisedu. Nokte dar inju'st ke do harf' sedudur nemit
   - `I + bisedu => I sedudur`
 - Tanhu
   - `I => I sedudur`
-
-- `Bisedu + I` => Nuhi = ناهی (I sedudur ast)
-- `Bisedu + IY` => Nahiy = نهی (I bisedu ast) (maybe this can be simplified to just Nahy?)
-- `Sedudur + I` => Nei = نی (I bisedu ast)
-- `Sedudur + YI` => Neyi = نئی (I sedudur ast)
 
 ## Tacdid va Horoof' Tekruri
 Agar harfi dobur poctesarham tekrur cavad, mitavun ba etemud be xunande tekrur ru hazf kard. Albate emlu' kumel va sahih hamwenun doharfi ast.
